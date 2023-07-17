@@ -1,17 +1,17 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Marcos and my nickname is "Helgannick"!
 
-- 🔭 Atualmente estou estudando na Universidade Veiga de Almeida, 2 período em Sistemas de Informação.
-- 🌱 Atualmente estou aprendendo JavaScript e React.
-- 🤔 Estou procurando ajuda com React.
-- ⚡ Curiosidade: Rio de Janeiro, Animes, Dota2, DC e Marvel.
+- 🔭 I'm currently studying at Veiga de Almeida University, 3 period in Information Systems.
+- 🌱 I am currently learning JavaScript and React.
+- 🤔 I'm looking for help with React.
+- ⚡ Curiosity: Rio de Janeiro, Anime, Dota2, DC and Marvel.
 
-## Ferramentas e Tecnologias
+## Tools and Technologies:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 
 
-## Contatos:
+## Contacts:
 
 <div>
 
