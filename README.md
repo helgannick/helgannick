@@ -4,7 +4,6 @@
 - 🔭 I'm currently studying at Veiga de Almeida University, 3 period in Information Systems.
 - 🌱 I am currently learning JavaScript and React.
 - 🤔 I'm looking for help with React.
-- ⚡ Curiosity: Rio de Janeiro, Anime, Dota2, DC and Marvel.
 
 ## Tools and Technologies:
 
