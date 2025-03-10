@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my GitHub profile.
 ## About Me!
 
-<b> My name is Marcos, but you can call me Helgannick! I'm passionate about Cloud Computing, Software Development, and DevOps practices. My journey in technology started early, and today I focus on Back-End Development and Cloud Architecture.
+<b> My name is Marcos Barbosa, but you can call me Helgannick! I'm passionate about Cloud Computing, Software Development, and DevOps practices. My journey in technology started early, and today I focus on Back-End Development and Cloud Architecture.
 
 ## 🚀 What I'm Working On
 
