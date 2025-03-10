@@ -1,13 +1,32 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Marcos and my nickname is "Helgannick"!
+# 👋 Hello! Welcome to my GitHub profile.
+## About Me!
 
-- 🔭 I'm currently studying at Anhanguera University, 1 period in Cloud Computing.
-- 🌱 I am currently learning Docker and Kubernetes.
+My name is Marcos, but you can call me Helgannick! I'm passionate about Cloud Computing, Software Development, and DevOps practices. My journey in technology started early, and today I focus on Back-End Development and Cloud Architecture.
 
-## Tools and Technologies:
+## 🚀 What I'm Working On
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+Currently studying Cloud Computing at Anhanguera University.
 
+Deepening my knowledge in Docker and Kubernetes.
+
+Exploring AWS services, CI/CD pipelines, and Infrastructure as Code (IaC).
+
+Building a portfolio with Python, Django, and Cloud-Native Applications.
+
+##🏆 Certifications
+
+AWS Certified Cloud Practitioner
+AWS Certified Solutions Architect - Associate
+
+##🛠️ Tools & Technologies
+
+Cloud & DevOps: AWS (S3, RDS, EC2), Docker, Kubernetes, Terraform, CI/CD
+
+Programming & Development: Python, Django, SQL, C, Linux Shell
+
+Version Control: Git & GitHub
+
+Web Technologies: HTML, CSS, JavaScript,
 
 ## Contacts:
 
