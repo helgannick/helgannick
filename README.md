@@ -1,9 +1,8 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Marcos and my nickname is "Helgannick"!
 
-- 🔭 I'm currently studying at Veiga de Almeida University, 3 period in Information Systems.
-- 🌱 I am currently learning JavaScript and React.
-- 🤔 I'm looking for help with React.
+- 🔭 I'm currently studying at Anhanguera University, 1 period in Cloud Computing.
+- 🌱 I am currently learning Docker and Kubernetes.
 
 ## Tools and Technologies:
 
@@ -14,8 +13,6 @@
 
 <div>
 
-
-<a href="https://www.twitch.tv/helgannick" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:helgannick@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/60bb4023b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
