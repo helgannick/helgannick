@@ -16,6 +16,7 @@ Building a portfolio with Python, Django, and Cloud-Native Applications.
 ##🏆 Certifications
 
 AWS Certified Cloud Practitioner
+
 AWS Certified Solutions Architect - Associate
 
 ##🛠️ Tools & Technologies
