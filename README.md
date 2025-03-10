@@ -13,13 +13,13 @@ Exploring AWS services, CI/CD pipelines, and Infrastructure as Code (IaC).
 
 Building a portfolio with Python, Django, and Cloud-Native Applications.
 
-##🏆 Certifications
+## 🏆 Certifications
 
-AWS Certified Cloud Practitioner
+<b> AWS Certified Cloud Practitioner <\b>
 
-AWS Certified Solutions Architect - Associate
+<b> AWS Certified Solutions Architect - Associate <\b>
 
-##🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Cloud & DevOps: AWS (S3, RDS, EC2), Docker, Kubernetes, Terraform, CI/CD
 
